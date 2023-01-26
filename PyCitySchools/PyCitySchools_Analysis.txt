@@ -1,0 +1,15 @@
+
+PyCitySchools Analysis
+This analysis utilized standardized test results for the school’s within the given school district in order to better understand the performance trends. The first step was compiling all the school and student data to see the information regarding the overall district; next it is possible to break down the information based on each individual school including the overall passing rate, the total school budget, and the budget allotted per student. This is able to provide a list of the highest and lowest performing schools. The analysis also grouped schools based on their spending ranges per student—surprising, the schools within the highest spending ranges did not have the highest overall passing rate. The size of each school is also factored in and returns expected results—the larger schools have a lower overall passing rate, likely due to larger class sizes. And finally, this analysis was able to directly compare the charter schools versus the district schools which show that the charter schools have a higher percentage of overall passing students.
+
+
+
+
+
+
+
+
+
+
+
+
